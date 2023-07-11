@@ -6,4 +6,5 @@ spin bike
 stair climber
 rower
 leg press
-smith machine
+smith machine 
+G2 machine
