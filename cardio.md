@@ -8,3 +8,4 @@ rower
 leg press
 smith machine 
 G2 machine
+cross fit training
